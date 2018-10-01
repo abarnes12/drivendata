@@ -1,0 +1,13 @@
+name: ds
+channels:
+  - conda-forge
+dependencies:
+  - keras
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - python-dotenv
+  - scikit-learn
+  - seaborn
+  - tensorflow
